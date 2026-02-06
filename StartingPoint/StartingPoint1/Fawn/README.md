@@ -1,6 +1,6 @@
 # FAWN
 
-## Comprobación de conexión
+## 💻 Comprobación de conexión
 ![comprobacion conexion](image0.png)
 
 Con el siguiente comando comprobamos si la máquina que atacamos está recibiendo señal trasmitiendo un paquete ICMP Echo Request,
@@ -11,3 +11,4 @@ ping -c 1 10.129.56.4
 ```
 
 ## 🔎 Enumeración
+
