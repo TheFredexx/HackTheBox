@@ -2,4 +2,4 @@
 
 ## 🔎 Enumeración
 
-![comprobacion conexion](imagen0.png)
+![comprobacion conexion](image0.png)
